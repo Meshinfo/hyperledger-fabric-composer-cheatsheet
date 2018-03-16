@@ -17,30 +17,30 @@ To provide decent overview, a navigation helps you getting to the right content.
 
 ### Developing Business Networks Definitions
 
-1. [Bootstrapping a Business Network Definition project](docs/development/.md)
-2. [Modelling network use cases](docs//.md)
-3. [Implement and test transaction functions](docs//.md)
-4. [Define queries and use them](docs//.md)
-5. [Handling events (publish and subscribe)](docs//.md)
-6. [Implement permissions](docs//.md)
-7. [Package source code to a Business Network Archive (.bna file)](docs//.md)
+1. [Bootstrapping a Business Network Definition project](docs/development/bootstrap-business-network-definition.md)
+2. [Modelling network use cases](docs/development/modelling-networks.md)
+3. [Implement and test transaction functions](docs/development/implement-test-transaction-functions.md)
+4. [Define queries and use them](docs/development/define-queries.md)
+5. [Handling events (publish and subscribe)](docs/development/handling-events-pub-sub.md)
+6. [Implement permissions](docs/development/implement-permissions.md)
+7. [Package source code to a Business Network Archive (.bna file)](docs/development/package-business-network-archive.md)
 
 ### Run Business Network Archives
 
-1. [Install and start a Business Network on Fabric](docs//.md)
-2. [Update an existing Business Network](docs//.md)
+1. [Install and start a Business Network on Fabric](docs/run-business-network-archives/install-and-start-business-network-on-fabric.md)
+2. [Update an existing Business Network](docs/run-business-network-archives/update-existing-network.md)
 
 ### Managing deployed Business Networks
 
-1. [Creating network participants](docs//.md)
-2. [Issue an identity to a participant](docs//.md)
-3. [Bind existing identities to participants](docs//.md)
-4. [Revoking identities from participants](docs//.md)
+1. [Creating network participants](docs/manage-business-networks/create-network-participants.md)
+2. [Issue an identity to a participant](docs/manage-business-networks/issue-identity-to-participant.md)
+3. [Bind existing identities to participants](docs/manage-business-networks/bind-existing-identity-to-participant.md)
+4. [Revoking identities from participants](docs/manage-business-networks/revoke-identity-from-participant.md)
 
 ### Prototyping on the Playground
 
-1. [Intro to the playground](docs//.md)
-2. [Create/import/export Business Networks](docs//.md)
+1. [Intro to the playground](docs/playground-prototyping/playground-intro.md)
+2. [Create/import/export Business Networks](docs/playground-prototyping/create-import-export-business-networks.md)
 
 ## Notes
 
